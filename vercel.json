@@ -3,5 +3,5 @@
       "framework": null,
     "functions": {
         "social_netwrok/index.php": { "runtime": "vercel-php@0.6.0" }
-    },
+    }
 }
